@@ -1,0 +1,46 @@
+
+nav.navbar.navbar-default {
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+  background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/MPaEbz-/videoblocks-computer-generated-abstract-footage-with-glowing-purple-vertical-stripes-moving-against-dark-background-loop-ready-animation_hsggepohlz_thumbnail-small01.jpg);
+  color: white !important;
+  font-size: 80px;
+  border-style: ridge;
+  border-color: black;
+  height: 7.5%;
+}
+
+.navbar-brand {
+  font-weight: bolder;
+  padding: 0;
+}
+
+.navbar-nav {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 0;
+  color: white !important;
+  font-size: 30px;
+  list-style: none;
+}
+
+a {
+  color: white !important;
+  background-color: transparent !important;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  margin: 0;
+  padding: 0;
+}
+
+.NavLogo {
+  height: 50px;
+  width: 150px;
+}

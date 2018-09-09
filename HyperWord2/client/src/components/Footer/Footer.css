@@ -1,0 +1,13 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  background: magenta;
+  opacity: .2;
+}
+.footer {
+  color: deepskyblue;
+  text-shadow: .5px 1px #ffffff;
+}

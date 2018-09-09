@@ -1,0 +1,9 @@
+.keyBoardSubmit {
+    background-color: purple; /* For browsers that do not support gradients */
+    background-image: linear-gradient(purple,rgb(175, 188, 192), #ffffff); 
+    border-radius: 20%;
+    height: 40px;
+    width: 80px;
+    font-weight: bold;
+    text-align: center;
+}
