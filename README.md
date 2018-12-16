@@ -5,14 +5,14 @@ An addictive and challenging React-based word game. Players must fill in the bla
 Currently deployed on Heroku at: https://hyperword2.herokuapp.com/.
 
 ## Built With
-*React.js - Facebook's efficient, flexible JavaScript library for building user interfaces, one small component at a time.
-*Express - Fast, unopinionated, minimalist web framework for node.
-*body-parser - Node.js body parsing middleware.
-*path - Utility for working with file and directory paths.
-*Firebase - BaaS app development platform from Google. Utilized here for user authentication.
+* React.js - Facebook's efficient, flexible JavaScript library for building user interfaces, one small component at a time.
+* Express - Fast, unopinionated, minimalist web framework for node.
+* body-parser - Node.js body parsing middleware.
+* path - Utility for working with file and directory paths.
+* Firebase - BaaS app development platform from Google. Utilized here for user authentication.
 
 ## Authors
-*Matthew Eisenstadter 
-*Jesse Loring 
-*Amy Mclaughlin 
-*Molly Zurheide
+* Matthew Eisenstadter 
+* Jesse Loring 
+* Amy Mclaughlin 
+* Molly Zurheide
