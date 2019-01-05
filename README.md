@@ -2,8 +2,6 @@
 
 An addictive and challenging React-based word game. Players must fill in the blanks and match the randomly generated word score, which is based on Scrabble(R) letter values. Great for vocabulary building and mental fitness.
 
-Deployed at https://hyperword2.herokuapp.com/.
-
 ## Built With
 * React.js - Facebook's efficient, flexible JavaScript library for building user interfaces, one small component at a time.
 * Express - Fast, unopinionated, minimalist web framework for Node.js.
@@ -16,5 +14,7 @@ Deployed at https://hyperword2.herokuapp.com/.
 * Jesse Loring 
 * Amy Mclaughlin 
 * Molly Zurheide
+
+## Deployed at https://hyperword2.herokuapp.com/.
 
 #### Original repository at https://github.com/mattieice7486/HyperWord2.
