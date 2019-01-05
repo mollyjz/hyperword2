@@ -16,3 +16,5 @@ Currently deployed on Heroku at: https://hyperword2.herokuapp.com/.
 * Jesse Loring 
 * Amy Mclaughlin 
 * Molly Zurheide
+
+### Original repository at https://github.com/mattieice7486/HyperWord2.
